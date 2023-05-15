@@ -6,7 +6,7 @@ import java.util.Random;
  *
  * @author Summer CS 307 class
  */
-public class ejemplo3
+public class ejemplo3   //no se lo que hace
 {   public static final int DEFAULT_SIDES = 6;
 
     private static Random ourRandNumGen = new Random();
